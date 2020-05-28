@@ -79,8 +79,9 @@ If you use this implementation in your work then please cite the following:
 3. [Medium Blog Post](https://towardsdatascience.com/a-neural-algorithm-of-artistic-style-a-modern-form-of-creation-d39a6ac7e715)
 4. [Notes on Variational Denoising](https://en.wikipedia.org/wiki/Total_variation_denoising)
 
-  
-  
+ 
+# License  
+Copyright 2020 Karush Suri. Released under MIT License. See [LICENSE](https://github.com/karush17/Neural-Art-Tensorflow/blob/master/LICENSE) for details. 
   
   
   
