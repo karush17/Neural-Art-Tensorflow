@@ -37,7 +37,7 @@ An implementation of the paper [A Neural Algorithm of Artistic Style](https://ar
   
   __Data Files__  
   
-  Pre-Trained VGG Network (VGG19) weights can downloaded from [here](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) and should be placed in the top level of the repository. In case you wish to specify a different location then use the `--network` flag.  
+  Pre-Trained VGG Network (VGG19) weights can be downloaded from [here](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat) and should be placed in the top level of the repository. In case you wish to specify a different location then use the `--network` flag.  
   
   __Dependencies__
   
